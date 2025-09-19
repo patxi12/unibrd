@@ -12,7 +12,7 @@ $newline never
         <img.logotype src="static/img/logo.png">
       <div.menu>
         <a.homea>
-        <a.linka>
-        <a.linka>
-        <a.linka>
+        <a class="linkA">
+        <a class="linkA">
+        <a class="linkA">
 
